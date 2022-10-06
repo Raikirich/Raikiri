@@ -3,9 +3,9 @@
 
 ### :woman_technologist: Обо мне :
 
-- :telescope: Я работаю дизайнером любой сложности.
+- :seedling: Я работаю дизайнером любой сложности.
 
-- :seedling: Изучаю TypeScript, nodejs.
+- :telescope: Изучаю TypeScript, nodejs.
 
 ---
 
