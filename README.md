@@ -1,5 +1,15 @@
 
-**Hello, I'm Raikiri, developer of many discord bots and projects, full stack and experienced developer**
+**Привет, я Raikiri, разработчик многих ботов и проектов discord**
+
+### :woman_technologist: Обо мне :
+
+- :telescope: Я работаю дизайнером любой сложности.
+
+- :seedling: Изучаю TypeScript, nodejs.
+
+---
+
+### :hammer_and_wrench: Языки и инструменты :
 
 <img src="https://cdn.discordapp.com/attachments/945315179657306123/1025554310932734083/124214.png"/>
 
