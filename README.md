@@ -7,11 +7,11 @@
 
 - :telescope: Изучаю TypeScript, nodejs.
 
+<img src="https://cdn.discordapp.com/attachments/945315179657306123/1025554310932734083/124214.png"/>
+
 ---
 
 ### :hammer_and_wrench: Языки и инструменты :
-
-<img src="https://cdn.discordapp.com/attachments/945315179657306123/1025554310932734083/124214.png"/>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
